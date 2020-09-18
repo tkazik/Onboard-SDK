@@ -48,7 +48,7 @@ main(int argc, char** argv)
 
   // Display interactive prompt
   std::cout
-    << "| Available commands:                                            |"
+    << "| Available commands (M600 Build):                               |"
     << std::endl;
   std::cout
     << "| [a] Get telemetry data and print                               |\n"
